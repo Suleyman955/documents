@@ -1,0 +1,8 @@
+spl-token update-metadata \
+  --keypair ~/.config/solana/id.json \
+  --mint GCXMrKcqqTPTRQTUTaevtwCR7d8zweV2JERQ17z5d9Na \
+  --name "Locked Bonk and Xrp token Coin" \
+  --symbol "LBonkXrp" \
+  --image ""https://github.com/Suleyman955/documents/blob/main/bonkxrp200.jpg"" \
+  --uri "https://github.com/Suleyman955/documents/blob/main/metadata1.json"
+
